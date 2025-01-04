@@ -89,16 +89,16 @@
 
 <h2 align="center">🤝 Connect with Me 🤝</h2>
 <p align="center" style="transform: scale(1.25); display: inline-block;">
-  <a href="https://www.facebook.com/vishal.lokhande.9809" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100094070001737&mibextid=ZbWKwL" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://wa.me/9370740100" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_peace_livin_/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/vishal-lokhande-96370333a/" target="blank">
+  <a href="https://www.linkedin.com/in//" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:akshaydarade54@gmail.com" target="blank">
@@ -117,7 +117,7 @@
   </h2>
 
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishallokhande8788" alt="Vishallokhande8788" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peace-livin" alt="peace-livin" /></a> </p>
 </section>
 
 
@@ -126,11 +126,11 @@
 ### 📈 GitHub Stats:
 Here’s a quick overview of my GitHub activity, including my top repositories, contributions, and more:
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishallokhande8788&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=peace-livin&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishallokhande8788&show_icons=true&locale=en&layout=compact" alt="vishallokhande8788" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peace-livin&show_icons=true&locale=en&layout=compact" alt="peace-livin" />
 
 ---
 
