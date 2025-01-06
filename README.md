@@ -92,8 +92,8 @@
   <a href="https://www.facebook.com/profile.php?id=100094070001737&mibextid=ZbWKwL" target="blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/9527935701" target="blank">
-    <img src="https://img.shields.io/badge/svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <a href="https://wa.me/9527935701" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_peace_livin_/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
