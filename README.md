@@ -1,11 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'am+Akshay+Darade+!;" />
 </h1>
-<h3 align="center">A Passionate Web Devloper</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
-- 🔭 I’m currently working on **Front-End**
+- 🔭 I’m currently working on **Full stack Developer**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at   = https://github.com/peace-livin?tab=repositories
 
